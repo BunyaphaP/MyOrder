@@ -1,2 +1,1 @@
-(class project)
-Note: tkinker
+(class project) - tkinter
